@@ -1,0 +1,9 @@
+{
+  "name": "astrobagel-pixinsight",
+  "displayName": "PixInsight Processing (no server)",
+  "version": "0.1.0",
+  "description": "Process integrated astrophotography masters in PixInsight by driving the desktop app with short PJSR scripts. No MCP server or PixInsight add-on required.",
+  "author": { "name": "astrobagel" },
+  "license": "MIT",
+  "keywords": ["astrophotography", "pixinsight", "pjsr", "image-processing", "computer-use"]
+}

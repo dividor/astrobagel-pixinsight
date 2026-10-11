@@ -1,0 +1,14 @@
+{
+  "name": "astrobagel",
+  "description": "Astrophotography plugins for Claude by astrobagel.",
+  "owner": {
+    "name": "astrobagel"
+  },
+  "plugins": [
+    {
+      "name": "astrobagel-pixinsight",
+      "source": "./",
+      "description": "Process integrated astrophotography masters in PixInsight by driving the desktop app with short PJSR scripts. No MCP server required."
+    }
+  ]
+}
